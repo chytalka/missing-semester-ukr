@@ -39,7 +39,7 @@ Sign up for the IAP 2020 class by filling out this [registration form](https://f
         <li>
         <strong>{{ lecture.date | date: '%-m/%d/%y' }}</strong>:
         {% if lecture.ready %}
-            <a href="{{ lecture.url }}">{{ lecture.title }}</a>
+            <a href="{{ site.baseurl }}{{ lecture.url }}">{{ lecture.title }}</a>
         {% else %}
             {{ lecture.title }} {% if lecture.noclass %}[no class]{% endif %}
         {% endif %}
@@ -95,12 +95,13 @@ Some more URLs:
 - [Vietnamese](https://missing-semester-vn.github.io/)
 - [Arabic](https://missing-semester-ar.github.io/)
 - [Italian](https://missing-semester-it.github.io/)
+- [Ukrainian](https://chytalka.github.io/missing-semester-ukr/)
 
 Note: these are external links to community translations. We have not vetted
 them.
 
 Have you created a translation of the course notes from this class? Submit a
-[pull request](https://github.com/missing-semester/missing-semester/pulls) so
+[pull request](https://github.com/chytalka/missing-semester-ukr/pulls) so
 we can add it to the list!
 
 ## Acknowledgements
@@ -114,7 +115,7 @@ AeroAstro](https://aeroastro.mit.edu/) for A/V equipment; and Brandi Adams and
 ---
 
 <div class="small center">
-<p><a href="https://github.com/missing-semester/missing-semester">Source code</a>.</p>
+<p><a href="https://github.com/chytalka/missing-semester-ukr">Source code</a>.</p>
 <p>Licensed under CC BY-NC-SA.</p>
-<p>See <a href="/license/">here</a> for contribution &amp; translation guidelines.</p>
+<p>See <a href="{{ site.baseurl }}/license/">here</a> for contribution &amp; translation guidelines.</p>
 </div>
