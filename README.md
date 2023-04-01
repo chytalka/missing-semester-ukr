@@ -1,8 +1,8 @@
 # The Missing Semester of Your CS Education
 
-[![Build Status](https://github.com/missing-semester/missing-semester/workflows/Build/badge.svg)](https://github.com/missing-semester/missing-semester/actions?query=workflow%3ABuild) [![Links Status](https://github.com/missing-semester/missing-semester/workflows/Links/badge.svg)](https://github.com/missing-semester/missing-semester/actions?query=workflow%3ALinks)
+[![Build Status](https://github.com/chytalka/missing-semester-ukr/actions/workflows/jekyll.yml/badge.svg)](https://github.com/chytalka/missing-semester-ukr/actions/workflows/jekyll.yml)
 
-Website for the [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) class!
+Website for the [The Missing Semester of Your CS Education](https://chytalka.github.io/missing-semester-ukr/) class!
 
 Contributions are most welcome! If you have edits or new content to add, please
 open an issue or submit a pull request.
@@ -28,4 +28,4 @@ website. Jekyll will re-build the website as you make changes to files.
 
 ## License
 
-All the contents in this course, including the website source code, lecture notes, exercises, and lecture videos are licensed under Attribution-NonCommercial-ShareAlike 4.0 International [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). See [here](https://missing.csail.mit.edu/license) for more information on contributions or translations.
+All the contents in this course, including the website source code, lecture notes, exercises, and lecture videos are licensed under Attribution-NonCommercial-ShareAlike 4.0 International [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). See [here](https://chytalka.github.io/missing-semester-ukr/license) for more information on contributions or translations.
