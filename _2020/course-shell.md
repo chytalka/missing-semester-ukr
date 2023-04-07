@@ -1,5 +1,5 @@
 ---
-layout: lecture
+layout: лекція
 title: "Course overview + the shell"
 date: 2020-01-13
 ready: true
